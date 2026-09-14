@@ -1,36 +1,48 @@
-# Welcome to tiny-frameworks
+**Welcome to tiny-frameworks**
 
-Lightweight, focused, and efficient software libraries & frameworks for Go and Pharo Smalltalk.
+Lightweight, focused, and efficient libraries and frameworks for Go and Pharo Smalltalk.
 
----
+tiny-frameworks is an independent open-source project family focused on small, reusable frameworks and tools.
 
-### Primary Repository Notice
-
-> **Codeberg First:** The main development, issue tracking, and community discussions for all **tiny-frameworks** projects take place on **[Codeberg](https://codeberg.org/tiny-frameworks)**.
-
-Repositories hosted here on GitHub are **read-only mirrors** maintained for distribution, package management compatibility (e.g., `go get`), and broader ecosystem visibility.
-
-* **Main Development & Source Code:** [codeberg.org/tiny-frameworks](https://codeberg.org/tiny-frameworks)
-* **Issue Tracking & Pull Requests:** Please submit issues and PRs directly on Codeberg.
+Our projects are developed with an emphasis on simplicity, modularity, and practical reuse — keeping things small without sacrificing structure.
 
 ---
 
-### Featured Projects
+## Projects
 
-| Project | Ecosystem | Description | Codeberg Link |
-| :--- | :--- | :--- | :--- |
-| **nexutils** | Go | Utilities for structured logging, P2P WebSocket RPC communication, and module management. | [codeberg.org/tiny-frameworks/nexutils](https://codeberg.org/tiny-frameworks/nexutils) |
-| **nexgate** | Go | WebSocket JSON-RPC service orchestrator & integration testing suite. | [codeberg.org/tiny-frameworks/nexgate](https://codeberg.org/tiny-frameworks/nexgate) |
-| **NexUtils-Logging** | Pharo Smalltalk | Asynchronous logging framework featuring worker appenders, JSON formatting, and lock files. | [codeberg.org/tiny-frameworks/NexUtils-Logging](https://codeberg.org/tiny-frameworks/NexUtils-Logging) |
+Our repositories are primarily hosted and developed on [Codeberg](https://codeberg.org/tiny-frameworks).
+
+### Go
+
+* **NexGate** — a modular system designed for the flexible generation, analysis, and validation of ZUGFeRD and Factur-X e-invoices. 
+* **NexUtils** — small, modular, reusable utilities for Go projects like CLI applications, processing engines, microservices, and distributed systems.
+
+ 
+
+### Smalltalk
+
+* **NexUtils-ST** — small, modular, reusable utilities and libraries for Pharo / Smalltalk
+applications and services, including logging, JSON-RPC, and peer-to-peer communication.
+* More projects are in development.
+
+**Visit our Codeberg organization:**
+https://codeberg.org/tiny-frameworks
+
+## GitHub
+
+This GitHub organization provides a convenient presence and mirror of our projects.
+
+**Codeberg is the canonical repository.**
+
+For the latest source code, issues, contributions, and project documentation, please visit the corresponding repository on Codeberg.
+
+## License
+
+Projects are released under the **Apache License 2.0**, unless stated otherwise in an individual repository.
+
+© 2026 Georg Hagn
 
 ---
 
-### Licensing & Contribution
+*Tiny frameworks. Focused solutions.*
 
-All projects under the **tiny-frameworks** organization are open-source software released under the **Apache License 2.0**.
-
-If you would like to contribute, report bugs, or request features, please join us on [Codeberg](https://codeberg.org/tiny-frameworks)!
-
----
-
-*Copyright © 2026 Georg Hagn (tiny-frameworks) • Contact: georghagn [at] tiny-frameworks.io*
