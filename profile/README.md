@@ -16,7 +16,7 @@ Our repositories are primarily hosted and developed on [Codeberg](https://codebe
 
 ### Go
 
-* **[NexGate](https://github.com/tiny-frameworks/nexgate)** — a modular system designed for the flexible generation, analysis, and validation of ZUGFeRD and Factur-X e-invoices. 
+* **[NexFact](https://github.com/tiny-frameworks/nexfact)** — a modular system designed for the flexible generation, analysis, and validation of ZUGFeRD and Factur-X e-invoices. 
 * **[NexUtils](https://github.com/tiny-frameworks/nexutils)** — small, modular, reusable utilities for Go projects like CLI applications, processing engines, microservices, and distributed systems.
 
  
