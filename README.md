@@ -17,7 +17,7 @@ Our repositories are primarily hosted and developed on [Codeberg](https://codebe
 ### Go
 
 * **[NexFact](https://github.com/tiny-frameworks/nexfact)** — a modular system designed for the flexible generation, analysis, and validation of ZUGFeRD and Factur-X e-invoices.
-* * **[NexFact-Server](https://github.com/tiny-frameworks/nexfact-server)** — Go-based e-invoicing service for NexFact-Modul with automated directory watching and JSON-RPC 2.0 P2P interface.
+* **[NexFact-Server](https://github.com/tiny-frameworks/nexfact-server)** — Go-based e-invoicing service for NexFact-Modul with automated directory watching and JSON-RPC 2.0 P2P interface.
 * **[NexFact-Assets](https://github.com/tiny-frameworks/nexfact-assets)** — Shared test data, assets, and isolated test environment setup utilities for the nexfact e-invoicing ecosystem. 
 * **[NexUtils](https://github.com/tiny-frameworks/nexutils)** — small, modular, reusable utilities for Go projects like CLI applications, processing engines, microservices, and distributed systems.
 
